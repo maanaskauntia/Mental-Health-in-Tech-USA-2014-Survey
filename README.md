@@ -68,7 +68,7 @@ There is a linear correlation between company size and benefit provision. To the
 
 2. Anonymity as a Conversion Tool- 
 
-When we filtered for employees whose mental health interferes with work, we found that 65.87% sought treatment when anonymity was protected, compared to only 54.17% when it was not. This strongly suggests that privacy is the primary gateway to care.
+When we filtered for employees whose mental health interferes with work, and analysed their answers to the question, "Is your anonymity protected if you choose to take advantage of mental health or substance abuse treatment resources?", we found that 65.87% sought treatment when anonymity was protected, compared to only 54.17% who sought treatment with no gaurantee of anoymity. This strongly suggests that privacy is the primary gateway to care, increasing likelihood of care-seeking by a solid 10%.
 
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=1rELqmhrJhkAoBJIC0_kaw2L-HEdLmfi4" alt="Seller Segments" width="300">
