@@ -59,7 +59,7 @@ Here are the key findings elaborated upon with appropriate visualisations.
 
 1. The Startup Benefit Void-
 
-There is a linear correlation between company size and benefit provision. To the question, "Does your employer provide mental health benefits?", in startups (1-25 employees), "No" is the most common answer. On the other hand, in large enterprise, "Yes" dominates. Unfortunately, a significant vilume of responses across companies of all sizes was "Don't Know", suggesting the lack of awareness of the benefits companies provide to their employees, indicating a massive internal communication failure.
+There is a linear correlation between company size and benefit provision. To the question, "Does your employer provide mental health benefits?", in startups (1-25 employees), "No" is the most common answer. On the other hand, in large enterprise, "Yes" dominates. Unfortunately, a significant volume of responses across companies of all sizes was "Don't Know", suggesting the lack of awareness of the benefits companies provide to their employees, indicating a massive internal communication failure.
 
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=11sA3ObQX9d0oa3JJjD-tzqbvj0kwGnLv" alt="Seller Segments" width="600">
