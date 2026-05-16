@@ -61,20 +61,45 @@ Here are the key findings elaborated upon with appropriate visualisations.
 
 There is a linear correlation between company size and benefit provision. In startups (1-25 employees), "No" is the most common answer regarding benefits, while in Large Enterprise, "Yes" dominates. However, "Don't Know" remains high across all sizes, suggesting a massive internal communication failure.
 
+<div align="center">
+  <img src="https://drive.google.com/uc?export=view&id=11sA3ObQX9d0oa3JJjD-tzqbvj0kwGnLv" alt="Seller Segments" width="600">
+</div>
+<br>
+
 2. Anonymity as a Conversion Tool- 
 
 When we filtered for employees whose mental health interferes with work, we found that 65.87% sought treatment when anonymity was protected, compared to only 54.17% when it was not. This strongly suggests that privacy is the primary gateway to care.
+
+<div align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1rELqmhrJhkAoBJIC0_kaw2L-HEdLmfi4" alt="Seller Segments" width="300">
+</div>
+<br>
 
 3. The Physical vs. Mental Stigma-
 
 The "Stigma Effect" is stark. While 75% of employees believe discussing physical health has no negative consequences at work, only 40% feel the same about mental health. Mental health is still viewed as a professional liability.
 
+<div align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1nBKxDOl8lDcUfa5v5cqq56OoArcf0nVx" alt="Seller Segments" width="600">
+</div>
+<br>
+
 4. The Peer Trust Gap-
 
 Contrary to intuition, the manager isn't the primary barrier—the coworker is. Employees are more than 2x as likely to be comfortable talking to their supervisor than all their peers, indicating a fear of social judgment or professional competition among equals.
 
+<div align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1x7tbyFuVsyKFRliT9gkepUNpZFfQZSgY" alt="Seller Segments" width="600">
+</div>
+<br>
+
 5. Present to Future Trust-
 
 The present trust in one's current employer (found in #4) does not easily translate to trust in a future employer. We can see that only 2% of respondents will bring up a mental health issue in a future job interview. 
+
+<div align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1F5igutqWKKHYKiy8kofXcrpGcui0gaPQ" alt="Seller Segments" width="600">
+</div>
+<br>
 
 ## Recommendations
