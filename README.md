@@ -39,19 +39,19 @@ The analysis was performed on a refined dataset of 883 tech-sector employee resp
 
 * `The Interview Barrier:` While ~40% might talk to a current boss, only ~2% of candidates feel comfortable bringing up mental health in a future job interview.
 
-## Data Integrity and Initial Checks
+## Data Cleaning and Integrity
 
-Before cleaning, the row count was- 1259 rows
+The dataset had many erroneous entries which could affect the integrity of the analysis. Before cleaning, the row count of the entire dataset was 1259 rows. The following steps were taken to ensure high credibility of the analysis:
 
-a) Age issue- There were absurd entries in the age column- negative age (e.g. -78), or age higher than 120 years (e.g. 99999). To keep the analysis representative of the adult workforce, we only included entries with age greater than 18 and less than 75, while replacing all other entries with NaN.
+i) Age issue- There were absurd entries in the age column- negative age (e.g. -78), or age higher than 120 years (e.g. 99999). To keep the analysis representative of the adult workforce, we only included entries with age greater than 18 and less than 75, while replacing all other entries with NaN.
 
-b) Gender issue- Entries for gender had spelling errors and formatting discrepancies ('M', 'cis man', 'f', 'Femail', 'femake'). All were taken into account and classified into 'male', 'female' and 'other' using arrays.
+ii) Gender issue- Entries for gender had spelling errors and formatting discrepancies ('M', 'cis man', 'f', 'Femail', 'femake'). All were taken into account and classified into 'male', 'female' and 'other' using arrays.
 
-c) Null values- In the work-interfere column, 264 null entries were noticed. They were replaced with 'Unknown' to record the number of people too uncomfortable to answer.
+iii) Null values- In the work-interfere column, 264 null entries were noticed. They were replaced with 'Unknown' to record the number of people too uncomfortable to answer.
 
-d) Relevant conditions- Considering the survey was done for employees within tech companies, all entries of self-employed people and people in non-tech companies were filtered out.
+iv) Relevant conditions- Considering the survey was done for employees within tech companies, all entries of self-employed people and people in non-tech companies were filtered out.
 
-After cleaning and formatting, the row count was- 883 rows
+After cleaning and formatting, the row count was 883 rows.
 
 ## Key Methods and Findings 
 
@@ -59,7 +59,7 @@ Here are the key findings elaborated upon with appropriate visualisations.
 
 1. The Startup Benefit Void-
 
-There is a linear correlation between company size and benefit provision. In startups (1-25 employees), "No" is the most common answer regarding benefits, while in Large Enterprise, "Yes" dominates. However, "Don't Know" remains high across all sizes, suggesting a massive internal communication failure.
+There is a linear correlation between company size and benefit provision. To the question, "Does your employer provide mental health benefits?", in startups (1-25 employees), "No" is the most common answer. On the other hand, in large enterprise, "Yes" dominates. Unfortunately, a significant vilume of responses across companies of all sizes was "Don't Know", suggesting the lack of awareness of the benefits companies provide to their employees, indicating a massive internal communication failure.
 
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=11sA3ObQX9d0oa3JJjD-tzqbvj0kwGnLv" alt="Seller Segments" width="600">
