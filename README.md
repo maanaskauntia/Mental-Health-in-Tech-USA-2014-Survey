@@ -19,7 +19,7 @@ From the survey dataset (OSMI_survey_2014.csv), this analysis provides answers t
 
 3) If anonymity helps, is it from a fear of consequences when one discusses a mental health issue with their employer?
 
-4) How comfortable are employees speaking about mental heatlh issues with their coworkers and with their immediate supervisors? (surpising answer)
+4) How comfortable are employees speaking about mental heatlh issues with their coworkers and with their immediate supervisors? (surprising answer)
 
 5) How comfortable are people bringing up mental health issues with a potential employer in a job interview?
 
