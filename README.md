@@ -69,15 +69,23 @@ There is a linear correlation between company size and benefit provision. To the
 2. Anonymity as a Conversion Tool- 
 
 When we filtered for employees whose mental health interferes with work, and analysed their answers to the question, "Is your anonymity protected if you choose to take advantage of mental health or substance abuse treatment resources?", we found that 65.87% sought treatment when anonymity was protected, compared to only 54.17% who sought treatment with no gaurantee of anoymity. This strongly suggests that privacy is the primary gateway to care, increasing likelihood of care-seeking by a solid 10%.
+<br>
 
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=1rELqmhrJhkAoBJIC0_kaw2L-HEdLmfi4" alt="Seller Segments" width="300">
 </div>
 <br>
 
-3. The Physical vs. Mental Stigma-
+3. The Physical vs. Mental Health Stigma-
 
-The "Stigma Effect" is stark. While 75% of employees believe discussing physical health has no negative consequences at work, only 40% feel the same about mental health. Mental health is still viewed as a professional liability.
+In this part of the survey, respondents were asked 2 questions:
+
+a) Do you think that discussing a mental health issue with your employer would have negative consequences?
+
+b) Do you think that discussing a physical health issue with your employer would have negative consequences?
+
+While 75% of employees believed discussing physical health has no negative consequences at work, only 40% feel the same about mental health. This strongly suggests that mental health is still viewed as a professional liability.
+<br>
 
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=1nBKxDOl8lDcUfa5v5cqq56OoArcf0nVx" alt="Seller Segments" width="600">
